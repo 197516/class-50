@@ -1,0 +1,28 @@
+ body {
+  background-color:pink
+ }
+ 
+ h1 {
+  color:blue   
+ }
+
+ p {
+  color:red
+ }
+
+ h4 {
+  color:orange
+ }
+
+ .header{
+   display: flex;
+   background-color:yellow ;
+   align-content : center 
+ }
+
+ .footer{
+     display:flex;
+     flex-direction: column;
+     justify-content: evenly
+    
+ }
